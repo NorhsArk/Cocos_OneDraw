@@ -1,0 +1,317 @@
+[
+    {
+        "bid": 1,
+        "mid": 1,
+        "stars": 26,
+        "unlock_ad": 0,
+        "unlock_star": 0,
+        "title_en": "Level 1",
+        "title_zh": "关卡集 1"
+    },
+    {
+        "bid": 1,
+        "mid": 2,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 20,
+        "title_en": "Level 2",
+        "title_zh": "关卡集 2"
+    },
+    {
+        "bid": 1,
+        "mid": 3,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 40,
+        "title_en": "Level 3",
+        "title_zh": "关卡集 3"
+    },
+    {
+        "bid": 1,
+        "mid": 4,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 60,
+        "title_en": "Level 4",
+        "title_zh": "关卡集 4"
+    },
+    {
+        "bid": 1,
+        "mid": 5,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 80,
+        "title_en": "Level 5",
+        "title_zh": "关卡集 5"
+    },
+    {
+        "bid": 1,
+        "mid": 6,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 100,
+        "title_en": "Level 6",
+        "title_zh": "关卡集 6"
+    },
+    {
+        "bid": 1,
+        "mid": 7,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 120,
+        "title_en": "Level 7",
+        "title_zh": "关卡集 7"
+    },
+    {
+        "bid": 1,
+        "mid": 8,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 140,
+        "title_en": "Level 8",
+        "title_zh": "关卡集 8"
+    },
+    {
+        "bid": 1,
+        "mid": 9,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 160,
+        "title_en": "Level 9",
+        "title_zh": "关卡集 9"
+    },
+    {
+        "bid": 1,
+        "mid": 10,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 180,
+        "title_en": "Level 10",
+        "title_zh": "关卡集 10"
+    },
+    {
+        "bid": 1,
+        "mid": 11,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 200,
+        "title_en": "Level 11",
+        "title_zh": "关卡集 11"
+    },
+    {
+        "bid": 1,
+        "mid": 12,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 220,
+        "title_en": "Level 12",
+        "title_zh": "关卡集 12"
+    },
+    {
+        "bid": 1,
+        "mid": 13,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 240,
+        "title_en": "Level 13",
+        "title_zh": "关卡集 13"
+    },
+    {
+        "bid": 1,
+        "mid": 14,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 260,
+        "title_en": "Level 14",
+        "title_zh": "关卡集 14"
+    },
+    {
+        "bid": 1,
+        "mid": 15,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 280,
+        "title_en": "Level 15",
+        "title_zh": "关卡集 15"
+    },
+    {
+        "bid": 1,
+        "mid": 16,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 300,
+        "title_en": "Level 16",
+        "title_zh": "关卡集 16"
+    },
+    {
+        "bid": 1,
+        "mid": 17,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 320,
+        "title_en": "Level 17",
+        "title_zh": "关卡集 17"
+    },
+    {
+        "bid": 1,
+        "mid": 18,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 340,
+        "title_en": "Level 18",
+        "title_zh": "关卡集 18"
+    },
+    {
+        "bid": 1,
+        "mid": 19,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 360,
+        "title_en": "Level 19",
+        "title_zh": "关卡集 19"
+    },
+    {
+        "bid": 1,
+        "mid": 20,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 380,
+        "title_en": "Level 20",
+        "title_zh": "关卡集 20"
+    },
+    {
+        "bid": 1,
+        "mid": 21,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 400,
+        "title_en": "Level 21",
+        "title_zh": "关卡集 21"
+    },
+    {
+        "bid": 1,
+        "mid": 22,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 420,
+        "title_en": "Level 22",
+        "title_zh": "关卡集 22"
+    },
+    {
+        "bid": 1,
+        "mid": 23,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 440,
+        "title_en": "Level 23",
+        "title_zh": "关卡集 23"
+    },
+    {
+        "bid": 1,
+        "mid": 24,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 460,
+        "title_en": "Level 24",
+        "title_zh": "关卡集 24"
+    },
+    {
+        "bid": 1,
+        "mid": 25,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 480,
+        "title_en": "Level 25",
+        "title_zh": "关卡集 25"
+    },
+    {
+        "bid": 1,
+        "mid": 26,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 500,
+        "title_en": "Level 26",
+        "title_zh": "关卡集 26"
+    },
+    {
+        "bid": 1,
+        "mid": 27,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 520,
+        "title_en": "Level 27",
+        "title_zh": "关卡集 27"
+    },
+    {
+        "bid": 1,
+        "mid": 28,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 540,
+        "title_en": "Level 28",
+        "title_zh": "关卡集 28"
+    },
+    {
+        "bid": 1,
+        "mid": 29,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 560,
+        "title_en": "Level 29",
+        "title_zh": "关卡集 29"
+    },
+    {
+        "bid": 1,
+        "mid": 30,
+        "stars": 26,
+        "unlock_ad": 1,
+        "unlock_star": 580,
+        "title_en": "Level 30",
+        "title_zh": "关卡集 30"
+    },
+    {
+        "bid": 1,
+        "mid": 31,
+        "stars": 31,
+        "unlock_ad": 1,
+        "unlock_star": 600,
+        "title_en": "Level 31",
+        "title_zh": "关卡集 31"
+    },
+    {
+        "bid": 1,
+        "mid": 32,
+        "stars": 28,
+        "unlock_ad": 1,
+        "unlock_star": 620,
+        "title_en": "Level 32",
+        "title_zh": "关卡集 32"
+    },
+    {
+        "bid": 1,
+        "mid": 33,
+        "stars": 31,
+        "unlock_ad": 1,
+        "unlock_star": 640,
+        "title_en": "Level 33",
+        "title_zh": "关卡集 33"
+    },
+    {
+        "bid": 1,
+        "mid": 34,
+        "stars": 30,
+        "unlock_ad": 1,
+        "unlock_star": 660,
+        "title_en": "Level 34",
+        "title_zh": "关卡集 34"
+    },
+    {
+        "bid": 1,
+        "mid": 35,
+        "stars": 31,
+        "unlock_ad": 1,
+        "unlock_star": 680,
+        "title_en": "Level 35",
+        "title_zh": "关卡集 35"
+    }
+]

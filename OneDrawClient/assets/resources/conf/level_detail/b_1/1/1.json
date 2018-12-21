@@ -1,0 +1,1 @@
+{"lines":[{"end":"B","id":0,"start":"A"},{"end":"C","id":1,"start":"B"},{"end":"D","id":2,"start":"C"},{"end":"A","id":3,"start":"D"}],"v2":[{"x":90,"id":"A","y":150},{"x":450,"id":"B","y":150},{"x":450,"id":"C","y":510},{"x":90,"id":"D","y":510}],"canvas":{"height":750,"width":540},"bid":1,"mid":1,"lid":1}
